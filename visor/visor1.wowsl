@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/DAM/3er parcial/Aplicaciones/app10/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/DAM/3er parcial/Aplicaciones/app10</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/Electrica/power-plant-344231__480.jpg</url>
+                <title>power-plant-344231__480</title>
+                <filesize>84535</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/Electrica/flash-113310__480.jpg</url>
+                <title>flash-113310__480</title>
+                <filesize>57198</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/Industrial/industrial-1636390__480.jpg</url>
+                <title>industrial-1636390__480</title>
+                <filesize>72969</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/mon.jpg</url>
+                <title>mon</title>
+                <filesize>73206</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/Mecanica/gears-1236578__480.jpg</url>
+                <title>gears-1236578__480</title>
+                <filesize>74340</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/Mecatronica/board-409582__480.jpg</url>
+                <title>board-409582__480</title>
+                <filesize>70261</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/Mecatronica/visualization-1523714__480.jpg</url>
+                <title>visualization-1523714__480</title>
+                <filesize>739928</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/3er parcial/Aplicaciones/app10/imagenes/Mecatronica/visualization-1523713__480.jpg</url>
+                <title>visualization-1523713__480</title>
+                <filesize>46108</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
